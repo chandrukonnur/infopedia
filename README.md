@@ -1,4 +1,4 @@
-# 📌 Infopedia – Internship Project  
+# 📌 Infopedia  
 
 Infopedia is a **content-sharing web platform** focused on **agriculture, technology, and healthcare**. It provides users with comprehensive and up-to-date information in these essential fields.  
 

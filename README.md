@@ -1,12 +1,39 @@
-# infopedia
- Welcome to Infopedia, the innovative content sharing website that focuses on agriculture,
-technology, and healthcare. Our platform is designed to provide you with comprehensive and
-up-to-date information in these essential fields. Whether you're a farmer, a tech enthusiast, or
-someone interested in healthcare, Infopedia is your go-to resource for knowledge and insights.
-Join us on this journey of discovery and empowerment as we explore the latest advancements
-and best practices in agriculture, technology, and healthcare. Together, let's unlock the potential
-of these sectors and make a positive impact in our world.
+# 📌 Infopedia – Internship Project  
 
-Admin login 
--username-veeresh
--password-123
+Infopedia is a **content-sharing web platform** focused on **agriculture, technology, and healthcare**. It provides users with comprehensive and up-to-date information in these essential fields.  
+
+---
+
+## ✨ Key Features  
+- Knowledge sharing platform for agriculture, technology, and healthcare  
+- User-friendly interface for browsing and contributing content  
+- Database-backed system for storing and retrieving articles  
+- Responsive design for accessibility across devices  
+
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** React / HTML / CSS / JavaScript *(update as per your stack)*  
+- **Backend:** XAMMP SERVER/ PHP *(update as per your stack)*  
+- **Database:** MySQL *(update as per your stack)*  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 👨‍💻 My Contribution  
+- Developed both **backend** modules during the internship  
+- Implemented **content organization and database integration**  
+- Collaborated with team members to improve **functionality and design**  
+
+---
+
+## 🔑 Demo Access  
+For testing/demo purposes, you can use the following admin login:  
+
+- **Username:** `veeresh`  
+- **Password:** `123`  
+
+---
+
+## 📬 Contact  
+For any queries or contributions, feel free to connect with me on [LinkedIn](your-linkedin-url) or raise an issue in this repository.  

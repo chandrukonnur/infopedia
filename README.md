@@ -29,4 +29,4 @@ Infopedia is a **content-sharing web platform** focused on **agriculture, techno
 ---
 
 ## 📬 Contact  
-For any queries or contributions, feel free to connect with me on [LinkedIn](your-linkedin-url) or raise an issue in this repository.  
+For any queries or contributions, feel free to connect with me on [LinkedIn](linkedin.com/in/chandru-konnur-151231306) or raise an issue in this repository.  

@@ -26,13 +26,6 @@ Infopedia is a **content-sharing web platform** focused on **agriculture, techno
 - Collaborated with team members to improve **functionality and design**  
 
 ---
-
-## 🔑 Demo Access  
-For testing/demo purposes, you can use the following admin login:  
-
-- **Username:** `chandru`  
-- **Password:** `123`  
-
 ---
 
 ## 📬 Contact  

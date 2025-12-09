@@ -30,7 +30,7 @@ Infopedia is a **content-sharing web platform** focused on **agriculture, techno
 ## 🔑 Demo Access  
 For testing/demo purposes, you can use the following admin login:  
 
-- **Username:** `veeresh`  
+- **Username:** `chandru`  
 - **Password:** `123`  
 
 ---
